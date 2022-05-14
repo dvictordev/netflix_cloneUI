@@ -25,8 +25,6 @@ const loginPageContent={
   },
 }
 
-
-
 export function Content(){
   return(
     <>
