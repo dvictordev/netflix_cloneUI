@@ -37,11 +37,11 @@ export function CarouselComp(){
         
 
   return (
-    <div className="w-full flex items-center justify-center mt-10">
+    <div className="w-full flex items-center justify-center bg-[#141414] px-10">
     <Swiper
-      spaceBetween={10}
-      slidesPerView={5}
-      navigation={true} 
+      spaceBetween={-200}
+      slidesPerView={6}
+      
       modules={[Navigation]}
     >
      {data.map(movie=> {

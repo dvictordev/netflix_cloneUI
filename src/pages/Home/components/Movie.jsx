@@ -8,8 +8,7 @@ export function Movie({title, overview, vote_average, poster_path }){
   console.log(poster_path)
 
   return(
-    <div className="w-64 h-36" style={backCardImg}>
-      
+    <div className="w-64 h-36 px-8" style={backCardImg}>
       <h1 className="text-zinc-100">{title}</h1>
     </div>
   )
