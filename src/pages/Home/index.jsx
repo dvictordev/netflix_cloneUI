@@ -1,7 +1,10 @@
-export function Home(){
+import { CarouselComp } from "./components/CarouselComp"
+
+export function Home(){ 
+  
   return(
-    <>
-      <h1>hello Home</h1>
-    </>
-  )
+    <div className="bg-zinc-900 px-4 shadow-2xl">
+      <CarouselComp />
+    </div>
+  ) 
 }
