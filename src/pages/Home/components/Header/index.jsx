@@ -7,7 +7,7 @@ const backHeaderImgConfig ={
   backgroundSize:'cover',
   backgroundRepeat:'no-repeat',
   backgroundImage:`url(${backHeaderImg})`,
-  boxShadow:"inset 5px 10px 5px 400px rgba(0,0,0,0.64), inset 5px 17px 50px 50px rgba(0,0,0,0.64), 5px 17px 50px 50px rgba(0,0,0,0.64)",
+  boxShadow:"inset 5px 10px 20px 10px rgba(0,0,0,0.64), inset 5px 17px 50px 50px rgba(0,0,0,0.64), 5px 17px 50px 50px rgba(0,0,0,0.64)",
 }
 
 export function Header(){
@@ -37,7 +37,7 @@ export function Header(){
       <h1 className='text-9xl text-zinc-100'>Maid</h1>
       <div className='flex items-center pt-10 gap-6'>
       <button className=' gap-2 px-3 h-10 flex items-center justify-center rounded-md bg-zinc-400 hover:bg-zinc-300'><Play />Play</button>
-      <button className='gap-2 px-1 h-10 flex items-center justify-center rounded-md bg-zinc-300 hover:bg-zinc-400'><WarningCircle /> More info</button>
+      <button className='gap-2 px-3 h-10 flex items-center justify-center rounded-md bg-zinc-300 hover:bg-zinc-400'><WarningCircle /> More info</button>
       </div>
     </main>
     </div>
