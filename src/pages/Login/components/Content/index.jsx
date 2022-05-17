@@ -6,7 +6,7 @@ import kidsImage from '../../../../assets/kids_banner.png'
 
 const loginPageContent={
   TV:{
-    img:tvImage,
+    img:tvImage, 
     title:'Aproveite na TV',
     desc:'Assista em Smart TVs, PlayStation, Xbox, Chromecast, Apple TV, aparelhos de Blu-ray e outros dispositivos.'
   },
@@ -34,7 +34,7 @@ export function Content(){
         return(
           <>
           <div  className='w-full h-[1px] bg-zinc-600'></div>
-          <div  className="flex items-center justify-between gap-4 p-4 ">
+          <div key={key} className="flex items-center justify-between gap-4 p-4 ">
             <div className='flex flex-col text-center items-center max-w-xs justify-between'>
               <h1 className='font-bold text-zinc-100 text-sm'>{value.title}</h1>
               <span className='text-zinc-100'>{value.desc}</span>
