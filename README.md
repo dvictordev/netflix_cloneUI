@@ -10,4 +10,4 @@
 <h3>4-Swiper<h3/>
 <h3>5-Phospor react icons<h1/>
   
-![screenshot projeot]([src/assets/localhost_3000_home (1).png](https://github.com/dvictordev/netflix_cloneUI/blob/5a0111fb5ad7aa4a22e13039fc34fa8bac525738/src/assets/localhost_3000_home%20(1).png))
+(https://github.com/dvictordev/netflix_cloneUI/blob/5a0111fb5ad7aa4a22e13039fc34fa8bac525738/src/assets/localhost_3000_home%20(1).png)
