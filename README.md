@@ -10,4 +10,4 @@
 <h3>4-Swiper<h3/>
 <h3>5-Phospor react icons<h1/>
   
-(https://github.com/dvictordev/netflix_cloneUI/blob/5a0111fb5ad7aa4a22e13039fc34fa8bac525738/src/assets/localhost_3000_home%20(1).png)
+![localhost_3000_home (1)](https://user-images.githubusercontent.com/82322388/169087135-dfe0a27e-ad82-4a87-bf0f-40efba51fe60.png)
